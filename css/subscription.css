@@ -1,0 +1,36 @@
+
+
+.subscription__inner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.subscription__item{
+    width: 200px;
+    background-color: #e5f0f3;
+    border-radius: 10px;
+    border: 2px solid #9e9608;
+    color: #161b3b;
+    padding: 10px 15px;
+    text-align: center;
+}
+.subscription__item:hover{
+    background-color: #e5f0f3;
+}
+h2{
+    margin-bottom: 10px;
+}
+ul li{
+    text-align: left;
+    margin-bottom: 3px;
+    font-size: 14px;
+}
+.text{
+    margin-bottom: 15px;
+}
+
+.descr{
+    padding: 20px;
+    line-height: 30px;
+    height: 400px;
+}
